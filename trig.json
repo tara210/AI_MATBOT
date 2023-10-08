@@ -1,0 +1,77 @@
+[
+  {
+    "class": "Solving Trigonometric Equations",
+    "question": "Solve for x: 2sin(x) - 1 = 0.",
+    "explanation": "Approach: \n1. Add 1 to both sides: 2sin(x) = 1. \n2. Divide by 2: sin(x) = 1/2. \n3. Take the inverse sine function: x = arcsin(1/2) = \u03C0/6 radians."
+  },
+  {
+    "class": "Simplifying Trigonometric Identities",
+    "question": "Simplify the expression: (sin(x))^2 + (cos(x))^2.",
+    "explanation": "Approach: \n1. Use the Pythagorean identity: (sin(x))^2 + (cos(x))^2 = 1."
+  },
+  {
+    "class": "Solving Trigonometric Equations",
+    "question": "Solve for x: cos(2x) = 0.",
+    "explanation": "Approach: \n1. Use the double angle formula: cos(2x) = 2cos^2(x) - 1 = 0. \n2. Add 1 to both sides: 2cos^2(x) = 1. \n3. Divide by 2: cos^2(x) = 1/2. \n4. Take the square root: cos(x) = \u00B1\u221A(1/2). \n5. Solve for x: x = \u03C0/4 or x = 3\u03C0/4."
+  },
+  {
+    "class": "Simplifying Trigonometric Identities",
+    "question": "Simplify the expression: tan(x) + cot(x).",
+    "explanation": "Approach: \n1. Use the definition of cotangent: cot(x) = 1/tan(x). \n2. Substitute cot(x) in the expression: tan(x) + 1/tan(x)."
+  },
+  {
+    "class": "Solving Trigonometric Equations",
+    "question": "Solve for x: sin(2x) = 0.",
+    "explanation": "Approach: \n1. Use the double angle formula: sin(2x) = 2sin(x)cos(x) = 0. \n2. Divide by 2: sin(x)cos(x) = 0. \n3. Solve each equation separately based on sin(x) and cos(x)."
+  },
+  {
+    "class": "Simplifying Trigonometric Identities",
+    "question": "Simplify the expression: sin(2x) / (1 - cos^2(x)).",
+    "explanation": "Approach: \n1. Use the Pythagorean identity: 1 - cos^2(x) = sin^2(x). \n2. Substitute this in the expression: sin(2x) / sin^2(x). \n3. Simplify: 1/sin(x)."
+  },
+  {
+    "class": "Solving Trigonometric Equations",
+    "question": "Solve for x: 3cos(x) = 2.",
+    "explanation": "Approach: \n1. Divide by 3: cos(x) = 2/3. \n2. Take the inverse cosine function: x = arccos(2/3)."
+  },
+  {
+    "class": "Simplifying Trigonometric Identities",
+    "question": "Simplify the expression: (1 - sin^2(x)) / cos(x).",
+    "explanation": "Approach: \n1. Use the Pythagorean identity: 1 - sin^2(x) = cos^2(x). \n2. Substitute this in the expression: cos^2(x) / cos(x). \n3. Simplify: cos(x)."
+  },
+  {
+    "class": "Solving Trigonometric Equations",
+    "question": "Solve for x: tan(2x) = 1.",
+    "explanation": "Approach: \n1. Use the double angle formula: tan(2x) = (2tan(x))/(1 - tan^2(x)) = 1. \n2. Solve the resulting equation for tan(x) and then find x."
+  },
+  {
+    "class": "Simplifying Trigonometric Identities",
+    "question": "Simplify the expression: (sec(x))^2 - (tan(x))^2.",
+    "explanation": "Approach: \n1. Use the definitions of secant and tangent: sec(x) = 1/cos(x) and tan(x) = sin(x)/cos(x). \n2. Substitute these in the expression and simplify."
+  },
+  {
+    "class": "Solving Trigonometric Equations",
+    "question": "Solve for x: 4sin(x) - 3cos(x) = 0.",
+    "explanation": "Approach: \n1. Divide the equation by 4: sin(x) - (3/4)cos(x) = 0. \n2. Rearrange terms and square both sides to eliminate one of the variables. \n3. Solve for one variable and find the other."
+  },
+  {
+    "class": "Simplifying Trigonometric Identities",
+    "question": "Simplify the expression: cos(\u03C0/2 - x).",
+    "explanation": "Approach: \n1. Use the complementary angle identity: cos(\u03C0/2 - x) = sin(x)."
+  },
+  {
+    "class": "Solving Trigonometric Equations",
+    "question": "Solve for x: sin^2(x) - cos^2(x) = 0.",
+    "explanation": "Approach: \n1. Use the Pythagorean identity: sin^2(x) + cos^2(x) = 1. \n2. Substitute this into the equation and solve for x."
+  },
+  {
+    "class": "Simplifying Trigonometric Identities",
+    "question": "Simplify the expression: tan^2(x) - 1.",
+    "explanation": "Approach: \n1. Use the Pythagorean identity: tan^2(x) + 1 = sec^2(x). \n2. Rearrange to find tan^2(x) - 1."
+  },
+  {
+    "class": "Solving Trigonometric Equations",
+    "question": "Solve for x: cos(3x) = sin(3x).",
+    "explanation": "Approach: \n1. Use the double angle formulas for sine and cosine to expand the equation. \n2. Rearrange terms and solve for x."
+  }
+]
